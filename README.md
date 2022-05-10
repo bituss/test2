@@ -25,3 +25,4 @@ cd .. #egy mappával feljebbi mkdir
 mkdir # make directory
 rmdir #remove directory
 ls #list- könyvtár listázása 
+git commit -am "message" összes változtatás és commit egy lépésben
