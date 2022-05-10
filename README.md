@@ -10,7 +10,7 @@ git push -u origin main #a fejlesztési ág feltültetése első alkalommal
 …or push an existing repository from the command line
 git remote add origin https://github.com/bituss/test.git
 git branch -M main
-git push -u origin main
+git push -u origin main a parancs feltölti az origin távoli repoba a commitokat
 
 git pull origin main #a friss repo letöltése
 
@@ -25,4 +25,3 @@ cd .. #egy mappával feljebbi mkdir
 mkdir # make directory
 rmdir #remove directory
 ls #list- könyvtár listázása 
-levi buzi
